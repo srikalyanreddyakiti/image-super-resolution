@@ -34,5 +34,4 @@ Upload a blurry or pixelated image and get a super-resolved output using deep le
 
 ## 👨‍💻 Author  
 **Akiti Sri Kalyan Reddy**  
-B.Tech – Data Science and Artificial Intelligence  
-ICFAI University, Hyderabad  
+Data Science and Artificial Intelligence  
