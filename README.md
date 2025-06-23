@@ -1,9 +1,6 @@
 # image-super-resolution
 A deep learning-powered Python app for upscaling low-resolution images using the RRDBNet architecture.
 
-
-# Image Super Resolution
-
 This project implements an **Image Super-Resolution** system using a deep learning architecture, specifically **RRDBNet**. It enhances the resolution of low-quality images to produce sharper, high-definition outputs. It can be applied to tasks like photo restoration, video upscaling, satellite image enhancement, and medical imaging.
 
 ## 📁 Project Structure  
